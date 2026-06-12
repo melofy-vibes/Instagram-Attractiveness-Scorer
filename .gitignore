@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# YOLO Models
+yolov8n.pt
+yolov8s-seg.pt
+yolov8-seg.pt
+yolov8.pt
+
+# Generated Images
+enhanced_photos/*
+
+# OS Files
+.DS_Store
+Thumbs.db
